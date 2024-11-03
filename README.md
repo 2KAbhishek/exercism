@@ -1,6 +1,6 @@
 <div align = "center">
 
-<h1><a href="https://2kabhishek.github.io/Exercism">Exercism</a></h1>
+<h1><a href="https://2kabhishek.github.io/Exercism">exercism</a></h1>
 
 <a href="https://github.com/2KAbhishek/Exercism/blob/main/LICENSE">
 <img alt="License" src="https://img.shields.io/github/license/2kabhishek/Exercism?style=flat&color=eee&label="> </a>
