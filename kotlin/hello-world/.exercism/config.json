@@ -1,0 +1,38 @@
+{
+  "authors": [
+    "cswagner"
+  ],
+  "contributors": [
+    "bneevan",
+    "dector",
+    "HawkiesZA",
+    "jtigger",
+    "katrinleinweber",
+    "kytrinyx",
+    "lihofm",
+    "mdowds",
+    "mikegehard",
+    "Mouzourides",
+    "nithia",
+    "sdavids13",
+    "sjwarner-bp",
+    "SleeplessByte",
+    "stkent",
+    "sup95",
+    "uzilan"
+  ],
+  "files": {
+    "solution": [
+      "src/main/kotlin/HelloWorld.kt"
+    ],
+    "test": [
+      "src/test/kotlin/HelloWorldTest.kt"
+    ],
+    "example": [
+      ".meta/src/reference/kotlin/HelloWorld.kt"
+    ]
+  },
+  "blurb": "Exercism's classic introductory exercise. Just say \"Hello, World!\".",
+  "source": "This is an exercise to introduce users to using Exercism",
+  "source_url": "https://en.wikipedia.org/wiki/%22Hello,_world!%22_program"
+}

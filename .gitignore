@@ -1,2 +1,4 @@
 # Excluded files
 node_modules
+**/.gradle/
+**/build/
