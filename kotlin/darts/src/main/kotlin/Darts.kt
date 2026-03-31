@@ -1,9 +1,6 @@
 object Darts {
-
     fun score(x: Number, y: Number): Int {
-        val dx = x.toDouble()
-        val dy = y.toDouble()
-        val distance = kotlin.math.sqrt(dx * dx + dy * dy)
+        val distance = kotlin.math.hypot(x.toDouble(), y.toDouble())
         return when {
             distance <= 1.0 -> 10
             distance <= 5.0 -> 5
