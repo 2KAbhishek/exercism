@@ -1,3 +1,1 @@
-fun reverse(input: String): String {
-    return input.reversed()
-}
+fun reverse(input: String) = input.reversed()
