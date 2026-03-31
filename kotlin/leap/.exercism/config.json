@@ -1,0 +1,31 @@
+{
+  "authors": [
+    "sdavids13"
+  ],
+  "contributors": [
+    "dector",
+    "eparovyshnaya",
+    "jtigger",
+    "lihofm",
+    "mdowds",
+    "nithia",
+    "sjwarner-bp",
+    "SleeplessByte",
+    "stkent",
+    "uzilan"
+  ],
+  "files": {
+    "solution": [
+      "src/main/kotlin/Leap.kt"
+    ],
+    "test": [
+      "src/test/kotlin/LeapTest.kt"
+    ],
+    "example": [
+      ".meta/src/reference/kotlin/Leap.kt"
+    ]
+  },
+  "blurb": "Determine whether a given year is a leap year.",
+  "source": "CodeRanch Cattle Drive, Assignment 3",
+  "source_url": "https://web.archive.org/web/20240907033714/https://coderanch.com/t/718816/Leap"
+}
